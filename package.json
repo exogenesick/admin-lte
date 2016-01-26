@@ -12,6 +12,7 @@
     "bootstrap": "^3.3.6",
     "font-awesome": "^4.5.0",
     "http-server": "^0.8.5",
-    "ionicons": "^2.0.1"
+    "ionicons": "^2.0.1",
+    "jquery": "^2.2.0"
   }
 }
